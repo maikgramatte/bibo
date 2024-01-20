@@ -1,0 +1,187 @@
+{
+      "title": "Für immer deine Tochter",
+      "author": "Lind, Hera",
+      "sig": "L Lin",
+      "barcode": 22940070
+   },
+ 
+   {
+      "title": "The book of the dead",
+      "author": "",
+      "sig": "R  82  Pre",
+      "barcode": 21889417
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 162",
+      "barcode": 21883729
+   },
+   {
+      "title": "Die blutenden Bilder [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 161",
+      "barcode": 21881015
+   },
+   {
+      "title": "Geheimnisvolle Botschaften [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 160",
+      "barcode": 21867354
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 158",
+      "barcode": 21864643
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 151",
+      "barcode": 21756689
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 17",
+      "barcode": 22538727
+   },
+   {
+      "title": "Die drei ??? und der Zauberspiegel",
+      "author": "",
+      "sig": "Hörspiel    Dre ???  16",
+      "barcode": 22538710
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 15",
+      "barcode": 22542601
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 14",
+      "barcode": 22542595
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 13",
+      "barcode": 22542588
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 12",
+      "barcode": 22538703
+   },
+   {
+      "title": "Die drei ??? [Tonträger]",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 11",
+      "barcode": 22538697
+   },
+   {
+      "title": "Die drei ??? und die flüsternde Mumie",
+      "author": "",
+      "sig": "Hörspiel    Dre ??? 10",
+      "barcode": 22538680
+   },
+   {
+      "title": "Ein Vollidiot kommt selten allein!",
+      "author": "Szillat, Antje",
+      "sig": "3 J 0 Szi",
+      "barcode": 22132512
+   },
+   {
+      "title": "Einfach mal die Schnauze halten!",
+      "author": "Szillat, Antje",
+      "sig": "3 J 0 Szi",
+      "barcode": 22132505
+   },
+   {
+      "title": "Acht Pfeifen an Bord und kein Land in Sicht",
+      "author": "Szillat, Antje",
+      "sig": "3 J 0 Szi",
+      "barcode": 21768781
+   },
+   {
+      "title": "Wie man seine durchgeknallte Familie überlebt",
+      "author": "Szillat, Antje",
+      "sig": "J  0  Szi",
+      "barcode": 21768798
+   },
+   {
+      "title": "Ein eigenes Pony für Mia",
+      "author": "Young, Pippa",
+      "sig": "2 J 0 You",
+      "barcode": 22521736
+   },
+   {
+      "title": "Lotte und die Übernachtungsparty",
+      "author": "Young, Pippa",
+      "sig": "2 J 0 You",
+      "barcode": 22521743
+   },
+   {
+      "title": "Warum immer ich?",
+      "author": "",
+      "sig": "",
+      "barcode": 22502896
+   },
+   {
+      "title": "Der kleine Ritter Trenk und das Schwein der Weisen",
+      "author": "Boie, Kirsten",
+      "sig": "1 J 0 Boi",
+      "barcode": 21802874
+   },
+   {
+      "title": "Reitstallgeschichten",
+      "author": "Wiechmann, Heike",
+      "sig": "1 J 0 Wie",
+      "barcode": 21882326
+   },
+   {
+      "title": "Der Maulwurf und sein kleines Auto",
+      "author": "",
+      "sig": "1 J 0 Mil",
+      "barcode": 22178756
+   },
+   {
+      "title": "Hänsel und Gretel",
+      "author": "",
+      "sig": "1 J 1 Gri",
+      "barcode": 20265632
+   },
+   {
+      "title": "Der Froschkönig",
+      "author": "",
+      "sig": "1 J 0 Gri",
+      "barcode": 20265977
+   },
+   {
+      "title": "Der kleine Angsthase",
+      "author": "Shaw, Elizabeth",
+      "sig": "1 J 0 Sha",
+      "barcode": 21856662
+   },
+   {
+      "title": "Zogg",
+      "author": "",
+      "sig": "J  0  Sche",
+      "barcode": 22071484
+   }
+   {
+      "title": "Wer knabbert da an meinem Gemüse?",
+      "author": "",
+      "sig": "W  221  Kis",
+      "barcode": 22607614
+   },
+   {
+      "title": "Selbstversorgung aus dem eigenen Anbau",
+      "author": "Bustorf-Hirsch, Maren",
+      "sig": "W  220  Bus",
+      "barcode": 22528575
+   }
