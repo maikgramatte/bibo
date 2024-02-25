@@ -32,8 +32,9 @@ async function parsePage(item) {
                 url: `https://pictures.abebooks.com/isbn/${b}.jpg`,
                 responseType: "stream",
             });
-            await response.data.pipe(fs.createWriteStream(`./images/${b}.jpg`));
-            return `${b}.jpg`;
+            console.log(item);
+            await response.data.pipe(fs.createWriteStream(`./images/${item.bc}.jpg`));
+            return `${item.bc}.jpg`;
         } catch (error) {
             return 'error-2';
         }
@@ -48,7 +49,7 @@ function doo() {
     asyncForEach(compl, async (i) => {
         let check = !['none', 'error-2'].includes(i.img);
 
-        if (!['error', 'none', 'error-2'].includes(i.img)) {
+        if (!['error', 'none', 'error-2'].includes(i.img) && i.img !== undefined) {
             var stats = fs.statSync(`./images/${i.img}`);
             
             if (stats.size !== 9977) {
@@ -57,7 +58,6 @@ function doo() {
                 console.log('Dummy image');
             }
         }
-
 
         if (check && xc < batchCount) {
             console.log(`- ${xc} from ${batchCount} -`);

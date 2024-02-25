@@ -47,6 +47,9 @@ function doo() {
     });
 }
 
+const dateOk = ['20.08.2024', '21.08.2024']
+
+
 function parseData(item, page) {
     const dom = new JSDOM(page);
 
@@ -69,7 +72,7 @@ function parseData(item, page) {
         }
     });
 
-    const singleBc = lc.filter(a => a.bis === '01.06.2024' || a.bis === '03.06.2024' || a.bis === '02.06.2024' || a.bis === '05.06.2024' || a.bis == "08.06.2024");
+    const singleBc = lc.filter(a => dateOk.includes(a.bis));
 
     const ret = {
         isbn,
@@ -91,7 +94,7 @@ function parseData(item, page) {
             const bibo = i.querySelector('span').textContent.trim();
             const bis = i.parentElement.querySelector('.date_due').textContent;
 
-            if ((bibo.includes('Kreisergänzungsbibliothek') || bibo.includes('Fahrbibliothek')) && ['01.06.2024', '02.06.2024', '03.06.2024', '05.06.2024', "08.06.2024"].includes(bis)) {
+            if ((bibo.includes('Kreisergänzungsbibliothek') || bibo.includes('Fahrbibliothek')) && dateOk.includes(bis)) {
                 sndCheck.push(i.parentElement.querySelector('.barcode').textContent.trim());
             }
         });
